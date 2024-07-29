@@ -1,10 +1,3 @@
-//
-//  README.md
-//  Netflix Clone
-//
-//  Created by Arman  Urstem on 20.05.2024.
-//
-
 # Netflix Clone
 
 Netflix Clone - это проект, который представляет собой копию популярного стримингового сервиса Netflix.
